@@ -5,7 +5,6 @@ import {
 } from '../abstract/_variables';
 
 import { respond } from '../abstract/_mixins';
-import console = require('console');
 
 const GlobalStyle = createGlobalStyle`
     @import url(${googleFont});

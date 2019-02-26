@@ -1,5 +1,3 @@
-import console = require('console');
-
 const media = (em: string) => {
   return `@media screen and (max-width: ${em})`;
 };

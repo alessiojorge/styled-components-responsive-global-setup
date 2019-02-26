@@ -4,7 +4,7 @@ import {
   defaultFontSize, googleFont, fontFamily, colorBlack
 } from '../abstract/_variables';
 
-import { respond } from '../abstract/_mixins';
+import { respond } from '../abstract/_functions';
 
 const GlobalStyle = createGlobalStyle`
     @import url(${googleFont});
